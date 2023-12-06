@@ -1,0 +1,2 @@
+# Shardmind-frontend
+ShardMind AI
